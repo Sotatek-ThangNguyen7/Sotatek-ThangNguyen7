@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sotatek-ThangNguyen7
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning blockchain
+- 🌱 I’m currently learning devops, cloud
 - 💞️ I’m looking to collaborate on javascript projects (nodejs, reactjs, vuejs)
 - 📫 How to reach me:  
   + phone: 0968 023 297
